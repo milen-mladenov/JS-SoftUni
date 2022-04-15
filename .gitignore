@@ -3,4 +3,5 @@
 *.rar
 *.jpg
 *.md
-/[Rr]esourses/
+*.png
+*.txt
