@@ -1,3 +1,6 @@
 *.rtf
 *.zip
 *.rar
+*.jpg
+*.md
+/[Rr]esourses/
