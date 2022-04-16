@@ -1,0 +1,24 @@
+body {
+    margin: 50;
+}
+
+table {
+    border-collapse: collapse;
+    border: 1px solid;
+}
+
+thead tr td {
+    text-align: center;
+}
+
+table tr td {
+    border: 1px solid;
+}
+
+tbody tr td {
+    text-align: right;
+}
+
+tfoot {
+    border: 1px solid;
+}
