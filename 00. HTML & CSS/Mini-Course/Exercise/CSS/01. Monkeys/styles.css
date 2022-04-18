@@ -1,0 +1,35 @@
+body {
+    background-color: #FAEBC8;
+}
+
+section {
+    display: block;
+    border: 2px solid;
+    max-width: 75%;
+    min-height: 30rem;
+    background-color: white;
+    border-radius: 10px;
+    margin: 7rem 15rem 7rem 15rem;
+    padding: 2rem 4rem 2rem 4rem;
+    text-align: center;
+}
+
+article {
+    display: inline-block;
+    max-width: 30%;
+    text-align: center;
+    
+}
+
+img {
+    max-width: 25%;
+    margin: 0;
+    padding: 0;
+}
+
+article p {
+    display: block;
+    text-align: left;
+    padding-left: 20px;
+    padding-right: 20px;
+}
